@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Wpf_test.vechilces
 {
-    internal class Car
+    abstract class Car
     {
     }
 }
