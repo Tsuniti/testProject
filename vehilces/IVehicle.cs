@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Wpf_test.vechilces
+namespace Wpf_test.vehilces
 {
-    internal interface IVechicle
+    internal interface IVehicle
     {
     }
 }
